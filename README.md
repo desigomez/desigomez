@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a Food Link project that connects restaurants with local shelters. 
 - 🌱 I’m currently mastering Power BI
 - 👯 I’m looking to work as a Data Analyst, Data Engineer, etc. 
-- 📫 How to reach me: ...
+- 📫 How to reach me:  LinkedIn <img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/88555f98-d240-4d87-afbb-e16e62faafd7" />
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love trying new coffee shops and going to concerts during my free time.
 
