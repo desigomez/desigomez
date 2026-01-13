@@ -1,18 +1,31 @@
 
-Hi! I'm Desiree Gomez, a Computer Science graduate with a strong foundation in data analysis, database management, and IT systems. I enjoy turning complex datasets into meaningful insights and building practical tools to improve decision making.
+Hi, I’m Desiree Gomez
 
-Data Analytics & Databases: Experienced with SQL, Power BI, data cleaning, transformation, and visualization to extract actionable trends.
-Machine Learning for Security: Developed a SQL injection detection model using SVM and TF-IDF, deployed via Flask for real time analysis.
-IT & Infrastructure Knowledge: Strong background in networking (TCP/IP, DNS, VPN), troubleshooting, and process automation.
-I aim to grow in roles where I can analyze, interpret, and optimize data to drive impactful results.
-Explore my repositories to see how I combine analytics, machine learning, and IT knowledge into projects designed for real world use.
+I’m a Computer Science graduate with a strong foundation on data analysis, data engineering fundamentals, and analytics driven decision making. I enjoy transforming raw, complex datasets into clean, reliable data models, dashboards, and insights that support real world business needs.
 
-Here are some ideas to get you started:
+🔍 Data Analytics & Business Intelligence
+Advanced SQL for querying, joins, aggregations, and performance analysis
+Power BI dashboard development, KPI design, and data storytelling
+Data cleaning, transformation, and exploratory analysis using Python
 
-- 🔭 I’m currently working on a Food Link project that connects restaurants with local shelters. 
-- 🌱 I’m currently mastering Power BI
-- 👯 I’m looking to work as a Data Analyst, Data Engineer, etc. 
-- 📫 How to reach me: https://www.linkedin.com/in/desiree-gomez23-m-s-cs/
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love trying new coffee shops and going to concerts during my free time.
+🛠️ Data Engineering & Pipelines
+Built end-to-end ETL pipelines from raw CSV data to analytics-ready datasets
+Data modeling for reporting and trend analysis
+Experience with structured datasets, schema design, and automation workflows
 
+🤖 Applied Analytics & ML
+Developed and deployed a SQL injection detection model using SVM + TF-IDF
+Integrated machine learning into a production-style Flask API for real-time analysis
+Focused on data preprocessing, feature engineering, and evaluation
+
+I’m seeking Data Analyst or Entry-Level Data Engineer roles where I can apply analytics, build scalable data workflows, and turn data into measurable impact.
+📁 Explore my repositories to see projects focused on ETL pipelines, analytics dashboards, and real-world datasets.
+
+🌱 What I’m Working On
+🔭 Food Link Project – data-driven platform connecting restaurants with local shelters
+🌱 Deepening expertise in Power BI, SQL optimization, and data modeling
+👯 Open to Data Analyst & Data Engineering opportunities
+📫 Connect with me:
+🔗 LinkedIn
+😄 Pronouns: She/Her
+⚡ Fun fact: I love exploring new coffee shops and attending concerts
